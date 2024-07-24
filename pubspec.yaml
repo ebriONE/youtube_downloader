@@ -28,6 +28,9 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  toggle_switch: ^2.3.0
+  theme_provider: ^0.6.0
+  youtube_explode_dart: ^2.2.1
   flutter:
     sdk: flutter
 
